@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -–update *.html ..
+cp -u *.html ..
